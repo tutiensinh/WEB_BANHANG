@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/WebBanDoGiaDung/src/java/controller/AdminDashboardServlet.java</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/controller/OrderHistoryServlet.java</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/controller/AdminUserServlet.java</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/database/ContactDAO.java</file>
+            <file>file:/C:/WebBanDoGiaDung/web/admin/manage-orders.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/controller/AdminOrderServlet.java</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/database/ProductDAO.java</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/model/Contact.java</file>
+            <file>file:/C:/WebBanDoGiaDung/web/trangchu.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/web/header.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/controller/AdminContactServlet.java</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/controller/AdminProductServlet.java</file>
+            <file>file:/C:/WebBanDoGiaDung/web/WEB-INF/web.xml</file>
+            <file>file:/C:/WebBanDoGiaDung/web/admin/manage-contacts.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/web/admin/product-form.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/web/order-history.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/web/admin/dashboard.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/model/User.java</file>
+            <file>file:/C:/WebBanDoGiaDung/web/order-lookup.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/model/Order.java</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/database/UserDAO.java</file>
+            <file>file:/C:/WebBanDoGiaDung/web/admin/manage-users.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/model/OrderItem.java</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/controller/HomeServlet.java</file>
+            <file>file:/C:/WebBanDoGiaDung/web/contact.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/web/admin/manage-products.jsp</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/database/OrderDAO.java</file>
+            <file>file:/C:/WebBanDoGiaDung/src/java/controller/ContactServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
